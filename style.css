@@ -76,7 +76,7 @@ input#open{
     height: 300px;
     top: 0;
     left: 0;
-    box-shadow: inset 100px 20px 100px rgba(0,0,00.1),30px 0 50px rgba(0,0,0,0.1);
+    box-shadow: inset 100px 20px 100px rgb(145, 19, 19),30px 0 50px rgba(252, 0, 0, 0.1);
 }
 
 .note{
